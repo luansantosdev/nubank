@@ -5,4 +5,4 @@ Consegui desenvolver desde o UI Design até a implementação em HTML + CSS + JS
 <br /><br />
 Já a biblioteca SWIPER.JS foi muito importante para implementar o carrossel com os depoimentos de clientes. 
 <br /><br />
-O projeto foi hospedado na Vercel: 
+O projeto foi hospedado na Vercel: https://nubank-luansantosdev.vercel.app/
